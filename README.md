@@ -3,3 +3,4 @@ This repo serves as a scratchwork repo for all things React. Doing a lesson in T
 
 ### Topics Covered So Far
 - [Introduction to React Testing](https://www.theodinproject.com/lessons/node-path-react-new-introduction-to-react-testing)
+- [React Router](https://www.theodinproject.com/lessons/node-path-react-new-react-router)
